@@ -1,5 +1,7 @@
 ## Lab 3
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this lab we used a car object provided to do the rest of the lab. We created vin and year variables using object deconstructing assigned to the vin and year values from the car object. We created an arroe function expression getCarMakeModelImplicit, getCarMakeModelExplicit, getCarMakeModelDestructure that returns the same formatted car output as getCarMakeModel. We created a for..in loop to list all the properties of an object. We created a for..of loop to list all values of an array. we used module.exports.
 
 Technologies used in this lab:
